@@ -5,7 +5,7 @@ import { WeeklyPlan } from "./WeeklyPlan";
 
 export function MealPreview() {
   return (
-    <section id="planner" className="relative z-10 px-6 py-20">
+    <section id="planner" className="relative z-10 px-6 py-16 md:py-20">
       <div className="mx-auto max-w-7xl">
         <div className="mb-10 max-w-3xl">
           <p className="text-sm font-semibold text-orange-600">
